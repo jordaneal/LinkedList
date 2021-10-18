@@ -81,13 +81,9 @@ namespace Neal_LinkedList
             Node foundNode = list.Contains(head, input);
 
             if (foundNode != null)
-            {
                 return true;
-            }
             else
-            {
                 return false;
-            }
         }
     }
 }
