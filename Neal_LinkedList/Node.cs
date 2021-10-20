@@ -1,7 +1,7 @@
 ﻿namespace Neal_LinkedList
 {
     class Node
-    {
+    {   // BASE NODE CLASS DEVELOPED IN CLASS
         private string _data;
         private Node _next;
         public Node(string data)
